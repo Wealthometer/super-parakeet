@@ -1,0 +1,4 @@
+SELECT Id, Name
+FROM Account
+WHERE Name = 'Wealth'
+LIMIT 10
